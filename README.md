@@ -1,5 +1,5 @@
 # The-Discovery-of-Handwashing
-Dr. Semmelweis and the Discovery of Handwashing. In 1847, the Hungarian physician Ignaz Semmelweis makes a break through discovery: He discovers hand washing. Contaminated hands was a major cause of child bed fever and by enforcing hand washing at his hospital he saved hundreds of lives.
+Dr. Semmelweis and the Discovery of Handwashing. In 1847, the Hungarian physician Ignaz Semmelweis made a break through discovery: He discovered hand washing. Contaminated hands were a major cause of child bed fever and by enforcing hand washing at his hospital he saved hundreds of lives.
 
 # Datasets
 All the datasets used are posted here for reproducibility.
